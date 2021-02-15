@@ -193,10 +193,10 @@
   
   /* Hero Section */
   .hero {
-    background: #050a08;
-    background: linear-gradient(to right, #161616, #000000);
+    background: black;
+    
     padding: 200px 0;
-    background-color: #333;
+    
     
   }
   
