@@ -196,7 +196,8 @@
     background: #050a08;
     background: linear-gradient(to right, #161616, #000000);
     padding: 200px 0;
-    background: url('/img/mark-basarab-1OtUkD_8svc-unsplash.jpg')no-repeat center center/cover;
+    background-color: #333;
+    
   }
   
   .hero__container {
