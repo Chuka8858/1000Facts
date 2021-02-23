@@ -6,7 +6,7 @@
     scroll-behavior: smooth;
   }
   .navbar {
-    background: black;
+    background: #353535;
     height: 80px;
     display: flex;
     justify-content: center;
